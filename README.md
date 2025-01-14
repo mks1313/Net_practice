@@ -39,19 +39,4 @@ Through this repository, I aim to:
 - Experiment with **interactive features** and **animations**.
 - Sharpen my ability to **collaborate** and share code using **GitHub**.
 
-## 📄 Projects
-
-Here is a list of projects currently being developed:
-
-1. **Responsive Website Layouts** - A series of projects focused on creating responsive, mobile-first layouts.
-2. **Interactive Form Components** - Designing and developing user-friendly forms.
-3. **API Integration** - Fetching and displaying data from external APIs.
-4. **UI/UX Challenges** - Improving design skills by taking on UI/UX challenges.
-
-## 🔧 Setup and Installation
-
-To get started with any of the projects in this repository:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/frontend-skills-practice.git
+---
